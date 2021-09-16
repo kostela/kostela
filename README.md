@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Konstantin
+   Senior Layout Engineer with more than 5 years of experience in layout design of analog products. I have excellent knowledge in layout design of CMOS analog integrated circuits. In general worked with gate arrays and IP blocks. Performed verification of layout adherence to design rules (DRC) and Layout-vs-Schematic checks using Cadence tools.
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/kosnstantin-lukianov/">
@@ -11,6 +11,14 @@
 <p align='center'>
    📫 How to reach me: <a href='mailto:lukyanov.kostela@gmail.com'>lukyanov.kostela@gmail.com</a>
 </p>
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/kostela/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=kostela3&color=DE002D">
+   </a>
+</div>
+
+
 
 <!--
 **kostela/kostela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
