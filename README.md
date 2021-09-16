@@ -3,7 +3,7 @@
 
 ### My projects
 * #### Programmable Resolution 1-Wire Digital Thermometer
-* #### 8-channel high voltage programmable key
+* #### 8-channel High Voltage Programmable Key
 * #### 16-Bit SPI-Programmable DAC for 4-20 mA Loops
 
 ### Education
