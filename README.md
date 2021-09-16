@@ -1,5 +1,19 @@
-### Hi, I'm Konstantin
-   Senior Layout Engineer with more than 5 years of experience in layout design of analog products. I have excellent knowledge in layout design of CMOS analog integrated circuits. In general worked with gate arrays and IP blocks. Performed verification of layout adherence to design rules (DRC) and Layout-vs-Schematic checks using Cadence tools.
+## Hi, I'm Konstantin
+   Senior Layout Engineer with more than 5 years of experience and excellent knowledge in layout design of CMOS analog integrated circuits. In general worked with gate arrays and IP blocks. Performed verification of layout adherence to design rules (DRC) and Layout-vs-Schematic checks using Cadence tools.
+
+### Education
+* National Research University of Electronic Technology - MIET | Zelenograd, 2013  
+Master's of Eletronics and Nanoelectronics
+* National Research University of Electronic Technology - MIET | Zelenograd, 2013  
+Course Integrated nanoelectronic technology
+* National Research University of Electronic Technology - MIET | Zelenograd, 2013  
+Course Eletronics and Nanoelectronics, Synopsys
+
+* National Research University of Electronic Technology - MIET | Zelenograd, 2011  
+Bachelor's of Eletronics and Microelectronics
+
+
+
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/kosnstantin-lukianov/">
