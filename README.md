@@ -10,7 +10,7 @@
 * National Research University of Electronic Technology - MIET | Zelenograd, 2013  
 Master's of Eletronics and Nanoelectronics
 * National Research University of Electronic Technology - MIET | Zelenograd, 2013  
-Course Integrated nanoelectronic technology
+Course Integrated Nanoelectronic Technology
 * National Research University of Electronic Technology - MIET | Zelenograd, 2013  
 Course Eleсtronics and Nanoelectronics, Synopsys
 * National Research University of Electronic Technology - MIET | Zelenograd, 2011  
