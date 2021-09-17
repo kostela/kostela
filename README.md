@@ -4,6 +4,7 @@
 ### My projects
 * #### Programmable Resolution 1-Wire Digital Thermometer
 technology: SOI018  
+minimum feature size: 180nm  
 technology features: 1.8V/3.3V/5V low power CMOS module, single polysilicon, metal 1-6  
 typical decices: 5V low power NMOS/PMOS, polysilicon and metal resistors, metal-insolator-metal capacitors  
 * #### 8-channel High Voltage Programmable Key
