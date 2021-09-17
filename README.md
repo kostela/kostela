@@ -1,13 +1,38 @@
 ## Hi, I'm Konstantin
    Senior Layout Engineer with more than 5 years of experience and excellent knowledge in layout design of CMOS analog integrated circuits. In general worked with gate arrays and IP blocks. Also I performed verification of layout adherence to design rules (DRC) and Layout-vs-Schematic checks using Cadence tools.
 
+<p align='center'>
+How to reach me   📫   
+</p>
+
+<p align='center'>
+   <a href='mailto:lukyanov.kostela@gmail.com'>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
+   <a href="https://www.linkedin.com/in/kosnstantin-lukianov/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://t.me/lukyanovkostela">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+</p>
+
+
+
+
 ### My projects
 * #### Programmable Resolution 1-Wire Digital Thermometer
-   technology: SOI018  
-   minimum feature size: 180nm  
-   technology features: 1.8V/3.3V/5V low power CMOS module, single polysilicon, metal 1-6  
-   typical decices: 5V low power NMOS/PMOS, polysilicon and metal resistors, metal-insolator-metal capacitors  
+   Technology: SOI018  
+   Minimum feature size: 180nm  
+   Technology features: 1.8V/3.3V/5V low power CMOS module, single polysilicon, metal 1-6  
+   Typical decices: 5V low power NMOS/PMOS, polysilicon and metal resistors, metal-insolator-metal capacitors  
 * #### 8-channel High Voltage Programmable Key
+   Technology: XT018  
+   Minimum feature size: 180nm  
+   Main module: 1.8V/5V low power CMOS module, single polysilicon, metal 1, metal 2  
+   Additional module: 3 metal, additional top metal
+   Typical decices: 5V low power NMOS/PMOS, polysilicon and metal resistors, metal-insolator-metal capacitors
+
 * #### 16-Bit SPI-Programmable DAC for 4-20 mA Loops
 
 ### Education
@@ -23,24 +48,11 @@ Bachelor's of Eletronics and Microelectronics
 ### About me
 
 
-### Contacts
-📫 How to reach me: <a href='mailto:lukyanov.kostela@gmail.com'>lukyanov.kostela@gmail.com</a>
-<p align='center'>
-   <a href="https://www.linkedin.com/in/kosnstantin-lukianov/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="https://t.me/lukyanovkostela">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-
-
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/kostela/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=kostela3&color=DE002D">
    </a>
 </div>
-
-
 
 <!--
 **kostela/kostela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
