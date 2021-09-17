@@ -1,5 +1,5 @@
 ## Hi, I'm Konstantin
-   Senior Layout Engineer with more than 5 years of experience and excellent knowledge in layout design of CMOS analog integrated circuits. In general worked with gate arrays and IP blocks. Performed verification of layout adherence to design rules (DRC) and Layout-vs-Schematic checks using Cadence tools.
+   Senior Layout Engineer with more than 5 years of experience and excellent knowledge in layout design of CMOS analog integrated circuits. In general worked with gate arrays and IP blocks. Also I performed verification of layout adherence to design rules (DRC) and Layout-vs-Schematic checks using Cadence tools.
 
 ### My projects
 * #### Programmable Resolution 1-Wire Digital Thermometer
