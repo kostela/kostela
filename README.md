@@ -1,5 +1,5 @@
 ## Hi, I'm Konstantin
-   Senior Layout Engineer with more than 5 years of experience and excellent knowledge in layout design of CMOS analog integrated circuits. In general worked with gate arrays and IP blocks. Also I performed verification of layout adherence to design rules (DRC) and Layout-vs-Schematic checks using Cadence tools.
+   Senior Layout Engineer with more than 5 years of experience and good knowledge in layout design of CMOS analog integrated circuits. In general worked with gate arrays and IP blocks. Also I performed verification of layout adherence to design rules (DRC) and Layout-vs-Schematic checks using Cadence tools.
 
 <p align='center'>
 How to reach me   📫   
@@ -21,20 +21,23 @@ How to reach me   📫
 
 
 ### My projects
-* #### Programmable Resolution 1-Wire Digital Thermometer
+* #### Programmable Resolution 1-Wire Digital Thermometer  
+   05/2021 - 07/2021  
    Technology: SOI018  
    Minimum feature size: 180nm  
    Technology features: 1.8V/3.3V/5V low power CMOS module, single polysilicon, metal 1-6  
-   Typical decices: 5V low power NMOS/PMOS, polysilicon and metal resistors, metal-insolator-metal capacitors  
+   Typical decices: 5V low power NMOS/PMOS, polysilicon and metal resistors, MIM capacitors  
+* #### 16-Bit SPI-Programmable DAC for 4-20 mA Loops
+   05/2020 - 07/2020  
+   Technology: SOI018  
+   Minimum feature size: 180nm  
 * #### 8-channel High Voltage Programmable Key
+   04/2019  
    Technology: XT018  
    Minimum feature size: 180nm  
    Main module: 1.8V/5V low power CMOS module, single polysilicon, metal 1, metal 2  
-   Additional module: 3 metal, additional top metal
-   Typical decices: 5V low power NMOS/PMOS, polysilicon and metal resistors, metal-insolator-metal capacitors
-
-* #### 16-Bit SPI-Programmable DAC for 4-20 mA Loops
-
+   Additional module: metal 3, additional top metal  
+   Typical decices: 5V low power NMOS/PMOS, polysilicon and metal resistors, MIM capacitors
 ### Education
 * National Research University of Electronic Technology - MIET | Zelenograd, 2013  
 Master's of Eletronics and Nanoelectronics
@@ -46,6 +49,7 @@ Course Eleсtronics and Nanoelectronics, Synopsys
 Bachelor's of Eletronics and Microelectronics
 
 ### About me
+I'm currently learning English and trying new ways to improve my skill. This CV was created as an English homework.
 
 
 <div align="center" style="margin: 40px 0">
