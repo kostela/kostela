@@ -17,9 +17,6 @@ How to reach me   📫
    </a>
 </p>
 
-
-
-
 ### My projects
 * #### Programmable Resolution 1-Wire Digital Thermometer  
    05/2021 - 07/2021  
@@ -47,6 +44,13 @@ Course Integrated Nanoelectronic Technology
 Course Eleсtronics and Nanoelectronics, Synopsys
 * National Research University of Electronic Technology - MIET | Zelenograd, 2011  
 Bachelor's of Eletronics and Microelectronics
+
+### Skills
+* Understanding of technological processes and routes of manufacturing integrated circuits
+* Interest in deepening knowledge and skills in layout design
+* Strong communications skills
+* Striving for self-education
+* Good written and spoken English
 
 ### About me
 I'm currently learning English and trying new ways to improve my skill. This CV was created as an English homework.
