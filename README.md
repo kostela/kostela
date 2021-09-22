@@ -1,11 +1,13 @@
+<img src="photo_2021-09-22_20-49-28.jpg" align="right"  width="180" style="margin-right:10px;">
+
 ## Hi, I'm Konstantin
-   Senior Layout Engineer with more than 5 years of experience and good knowledge in layout design of CMOS analog integrated circuits. In general worked with gate arrays and IP blocks. 
-   
-<!-- Also I performed verification of layout adherence to design rules (DRC) and Layout-vs-Schematic checks using Cadence tools. -->
+   Senior Layout Engineer with more than 5 years of experience and good knowledge in layout design of CMOS analog integrated circuits. In general worked with gate arrays and IP blocks.  
 
 <p align='center'>
 How to reach me   📫   
 </p>
+
+
 
 <p align='center'>
    <a href='mailto:lukyanov.kostela@gmail.com'>
