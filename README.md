@@ -22,6 +22,8 @@ How to reach me   📫
 ### Experience
 * #### SENIOR LAYOUT ENGINEER 
    04/2016 - PRESENT, DC SOYUZ, Zelenograd
+   
+   
    - Active participation in layout design of CMOS analog circuits using Cadence tools
    - Delivering floorplan activities at both IPs and/or SOC level
    -
