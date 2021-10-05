@@ -78,7 +78,7 @@ I'm currently learning English and trying new ways to improve my skill. This CV 
 
 <div align="center" style="margin: 40px 0">
    <a href="https://www.efset.org/cert/uitVzP">
-    
+      <img src="https://cdn.efset.org/efset-widget/img/certificate_73.png"/ width="180">
    </a>
 </div>
 
