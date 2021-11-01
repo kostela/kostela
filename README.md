@@ -67,7 +67,10 @@ Bachelor's of Eletronics and Microelectronics
 * Good written and spoken English
 
 ### About me
-I'm currently learning English and trying new ways to improve my skill. This CV was created as an English homework.
+My hobbies:
+- climbing
+- cooking
+- listening to podcasts
 
 
 <div align="center" style="margin: 40px 0">
