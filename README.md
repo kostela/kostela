@@ -28,8 +28,8 @@ How to reach me   📫
    
    - Active participation in layout design of CMOS analog circuits using Cadence tools
    - Delivering floorplan activities at both IPs and/or SOC level
-   -
-   - Performing physical verifications as DRC, LVS, XOR, antenna check and parasitic extractions to achieve high quality layout deliveries  
+   - Performing physical verifications as DRC, LVS, XOR, antenna check   
+   - Performing parasitic extractions to achieve high quality layout deliveries
    - Experience in designing a range of analog circuits such as amplifiers, comparators, reference circuits and digital-analog convertors
 ### My projects
 * #### Programmable Resolution 1-Wire Digital Thermometer  
