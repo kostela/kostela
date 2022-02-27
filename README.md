@@ -30,8 +30,8 @@ How to reach me   📫
    - Delivering floorplan activities at both IPs and/or SOC level
    - Performing physical verifications as DRC, LVS, XOR, antenna check   
    - Performing parasitic extractions to achieve high quality layout deliveries
-   - Experience in designing a range of analog circuits such as amplifiers, comparators, reference circuits and digital-analog convertors
-### My projects
+   - Experience in designing a range of analog circuits such as amplifiers, comparators, reference circuits and digital-analog converters
+### Projects I took part in:
 * #### Programmable Resolution 1-Wire Digital Thermometer  
    05/2021 - 07/2021  
    Technology: SOI018  
@@ -79,11 +79,7 @@ My hobbies:
    </a>
 </div>
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://www.efset.org/cert/uitVzP">
-      <img src="https://cdn.efset.org/efset-widget/img/certificate_73.png"/ width="180">
-   </a>
-</div>
+
 
 
 
