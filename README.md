@@ -37,7 +37,7 @@ How to reach me   📫
    Technology: SOI018  
    Minimum feature size: 180nm  
    Technology features: 1.8V/3.3V/5V low power CMOS module, single polysilicon, metal 1-6  
-   Typical decices: 5V low power NMOS/PMOS, polysilicon and metal resistors, MIM capacitors  
+   Typical devices: 5V low power NMOS/PMOS, polysilicon and metal resistors, MIM capacitors  
 * #### 16-Bit SPI-Programmable DAC for 4-20 mA Loops
    05/2020 - 07/2020  
    Technology: SOI018  
@@ -48,7 +48,7 @@ How to reach me   📫
    Minimum feature size: 180nm  
    Main module: 1.8V/5V low power CMOS module, single polysilicon, metal 1, metal 2  
    Additional module: metal 3, additional top metal  
-   Typical decices: 5V low power NMOS/PMOS, polysilicon and metal resistors, MIM capacitors
+   Typical devices: 5V low power NMOS/PMOS, polysilicon and metal resistors, MIM capacitors
 ### Education
 * National Research University of Electronic Technology - MIET | Zelenograd, 2013  
 Master's of Eletronics and Nanoelectronics
